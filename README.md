@@ -23,7 +23,11 @@ Parts
 Things Fixed vs. KiCad Defaults
 -----------------------------
 * Diodes have proper pin order, for sim & footprint
-* 
+
+
+Need to Fix
+---------
+* 2N3906/2N3904 don't work from library, needs to have the model added as a text element on the sheet for now
 
 
 Thonkiconn jacks:
