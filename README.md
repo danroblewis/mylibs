@@ -34,5 +34,6 @@ Thonkiconn jacks:
       |_________|
 
    S    TN     T
+  GND   GND   SIG
 ```
 
